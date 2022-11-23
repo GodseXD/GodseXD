@@ -8,8 +8,8 @@ Age = "17"
 Country = "🇮🇳"
 ```
 #### 
-[![telegram badge](https://img.shields.io/badge/CrowCoder-30302f?style=for-the-badge&logo=telegram)](https://t.me/SoonAsWell)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aman&label=Profile%20Views&color=orange&style=flat-square" alt="Aman" /> </p>
+[![telegram badge](https://img.shields.io/badge/GodseXD-30302f?style=for-the-badge&logo=telegram)](https://t.me/GodseXD)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GodseXD&label=Profile%20Views&color=orange&style=flat-square" alt="GodseXD" /> </p>
 
 
 - 😄I'm Still Learning Git & GitHub
@@ -32,5 +32,6 @@ Country = "🇮🇳"
 
 <br />
 <br />
+
 
 
