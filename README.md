@@ -18,9 +18,9 @@ Country = "🇮🇳"
 
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
 
-![SHUBU Git Stats](https://github-readme-stats.vercel.app/api?username=SHUBHANSHU&include_all_commits=true&count_private=true&theme=highcontrast)
+![SHUBU Git Stats](https://github-readme-stats.vercel.app/api?username=GodseXD&include_all_commits=true&count_private=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanD&layout=compact&theme=radical)](https://github.com/AMANTYA1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GodseXD&layout=compact&theme=radical)](https://github.com/GodseXD)
 
 ### Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
@@ -33,14 +33,4 @@ Country = "🇮🇳"
 <br />
 <br />
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=godsexd&theme=dark&hide_border=true" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=roj1512&theme=dark&hide_border=true" />
-
-</div>
 
